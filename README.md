@@ -11,17 +11,6 @@
 </div>
 
 ---
-
-<h2 align="center">Skills At a Glance</h2>
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,html,css,py,pytorch,tensorflow,sklearn,flutter,dart,kotlin,swift,docker,kubernetes,aws,git,github,githubactions,linux,nginx,mysql,postgres,mongodb,redis,figma,vscode,postman&theme=dark&perline=8" />
-</a>
-
-</div>
-
----
 <div align="center">
 
 **Web Development**
@@ -80,8 +69,6 @@
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
-
 <table align="center">
 <tr>
 <td>
@@ -135,10 +122,6 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
