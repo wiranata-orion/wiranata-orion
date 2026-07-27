@@ -1,22 +1,12 @@
 <div align="center">
-
-
-![<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20there%2C%20I%27m%20Wiranata%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Full-Stack%20Developer%20-%20Web%2C%20Data%2FAI%2C%20Mobile%20%26%20Cloud&descAlignY=52&descSize=17" width="100%"/>](https://capsule-render.vercel.app/api?type=venom&height=300&color=FF2B00&text=wiranata-orion&section=header&fontColor=EEEBE3&textBg=false)
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Coding%3F;Engineering%3F;Physics%3F;Fluid+Mechanics%3F;I+am+interested&center=true" alt="Typing SVG" />
   </a>
 </p>
 
-<br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=wiranata-orion&label=Profile%20Views&color=6a11cb&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/wiranata-orion/wiranata-orion?label=Last%20Updated&style=for-the-badge&color=6a11cb)
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%">
 
 </div>
 
