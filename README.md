@@ -30,6 +30,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=wiranata-orion&theme=default&hide_border=true">
   <img src="https://streak-stats.demolab.com/?user=wiranata-orion&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </picture>
+</div>
 
 </br>
 
