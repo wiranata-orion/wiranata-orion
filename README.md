@@ -12,51 +12,30 @@
 
 ---
 
-<table align="center">
-<tr>
-<td>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-stats.vercel.app/api?username=wiranata-orion&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://gh-readme-stats.vercel.app/api?username=wiranata-orion&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true">
-  <img src="https://gh-readme-stats.vercel.app/api?username=wiranata-orion&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-</picture>
-
-</td>
-<td>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=wiranata-orion&layout=compact&theme=tokyonight&hide_border=true&langs_count=10">
-  <source media="(prefers-color-scheme: light)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=wiranata-orion&layout=compact&theme=default&hide_border=true&langs_count=10">
-  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=wiranata-orion&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-</picture>
-
-</td>
-</tr>
-</table>
+<source media="(prefers-color-scheme: light)" srcset="https://gh-readme-stats.vercel.app/api?username=wiranata-orion&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true">
 
 <div align="center">
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=wiranata-orion&layout=compact&theme=tokyonight&hide_border=true&langs_count=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=wiranata-orion&layout=compact&theme=default&hide_border=true&langs_count=10">
+    <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=wiranata-orion&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  </picture>
+</div>
+<br/>
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=wiranata-orion&theme=tokyonight&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=wiranata-orion&theme=default&hide_border=true">
   <img src="https://streak-stats.demolab.com/?user=wiranata-orion&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </picture>
 
-<br/>
-
-<img src="https://github-trophies.vercel.app/?username=wiranata-orion&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
-
-<br/>
+</br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wiranata-orion&theme=tokyo-night&hide_border=true&area=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wiranata-orion&theme=minimal&hide_border=true&area=true">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wiranata-orion&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </picture>
-
-</div>
-
 </div>
 
 <br/>
