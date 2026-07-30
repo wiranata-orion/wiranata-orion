@@ -33,6 +33,6 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?quote=Death can be the greatest opportunity of your life&type=horizontal&theme=monokai" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="Random Dev Quote" />
 
 </div>
