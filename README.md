@@ -12,9 +12,19 @@
 ---
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=wiranata-orion&layout=compact&hide_border=true&langs_count=10&bg_color=000000&title_color=E50000&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=wiranata-orion&layout=compact&hide_border=true&langs_count=10&bg_color=000000&title_color=E50000&text_color=ffffff">
+    <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=wiranata-orion&layout=compact&hide_border=true&langs_count=10&bg_color=000000&title_color=E50000&text_color=ffffff" alt="Top Languages" />
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wiranata-orion&bg_color=000000&color=E50000&line=E50000&point=ffffff&area=true&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wiranata-orion&bg_color=ffffff&color=E50000&line=E50000&point=000000&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wiranata-orion&bg_color=000000&color=E50000&line=E50000&point=ffffff&area=true&hide_border=true">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wiranata-orion&bg_color=000000&color=E50000&line=E50000&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </picture>
 </div>
@@ -23,6 +33,6 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=000000&quote_color=E50000&text_color=ffffff&author_color=E50000" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?quote=Death can be the greatest opportunity of your life&type=horizontal&theme=monokai" alt="Random Dev Quote" />
 
 </div>
