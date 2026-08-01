@@ -28,13 +28,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wiranata-orion&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </picture>
 </div>
-
-<br>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</picture>
-</div>
