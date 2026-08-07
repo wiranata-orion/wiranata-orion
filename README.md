@@ -12,9 +12,9 @@
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=wiranata-orion&layout=compact&hide_border=true&langs_count=10&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=wiranata-orion&layout=compact&hide_border=true&langs_count=10&theme=default">
-    <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=wiranata-orion&langs_count=10&theme=tokyonight" alt="Top Languages" />
-  </picture>
+<img align="center" src="https://streak-stats.demolab.com/?user=wiranata-orion&theme=dark"/>
+
+<br>
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=wiranata-orion&custom_title=Activity&theme=react-dark"/>
 </div>
