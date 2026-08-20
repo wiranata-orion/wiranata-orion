@@ -7,5 +7,9 @@
 ---
 
 <div align="center">
-    <img align="center" src="https://streak-stats.demolab.com/?user=wiranata-orion&theme=dark"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=wiranata-orion&layout=compact&theme=tokyonight&hide_border=true&langs_count=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=wiranata-orion&layout=compact&theme=default&hide_border=true&langs_count=10">
+    <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=wiranata-orion&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  </picture>
 </div>
