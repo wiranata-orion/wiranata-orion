@@ -7,9 +7,7 @@
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=wiranata-orion&layout=compact&theme=tokyonight&hide_border=true&langs_count=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://gh-readme-stats.vercel.app/api/top-langs/?username=wiranata-orion&layout=compact&theme=default&hide_border=true&langs_count=10">
-    <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=wiranata-orion&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-  </picture>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wiranata-orion&theme=dark&locale=es&short_numbers=true&date_format=%5BY.%5Dn.j&card_width=600&card_height=205&type=png)
+
 </div>
